@@ -61,3 +61,53 @@ I am preparing for a Full-Stack Developer role where I aim to contribute to both
 ![Terminus](https://img.shields.io/badge/Terminus-000000?style=for-the-badge)
 
 ---
+
+## 📁 Portfolio Projects
+
+<table>
+  <tr>
+    <th>프로젝트명</th>
+    <th>설명</th>
+  </tr>
+
+  <!-- 차량 파킹 시스템 -->
+  <tr>
+    <td>
+      🚗 차량 파킹 시스템  
+      <br />
+      <a href="YOUR_LINK">GitHub</a>
+    </td>
+    <td>
+      JSP/Servlet 기반 스마트 주차 시스템 – 실시간 주차 현황 확인 및 예약 기능 제공
+    </td>
+  </tr>
+
+  <!-- KIOSK 유저 -->
+  <tr>
+    <td>
+      🛒 KIOSK 유저  
+      <br />
+      <a href="YOUR_LINK">GitHub</a>
+    </td>
+    <td>
+      카페 주문 및 결제 유저용 키오스크 웹앱 – 포인트, 주문, 결제 등 통합 기능 제공  
+      <br />
+      • <a href="YOUR_ADMIN_LINK">KIOSK 관리자</a>  
+      <br />
+      • <a href="YOUR_REACT_LINK">KIOSK 리액트</a>
+    </td>
+  </tr>
+
+  <!-- HoneyRest_host -->
+  <tr>
+    <td>
+      HoneyRest_Host  
+      <br />
+      <a href="YOUR_LINK">GitHub</a>
+    </td>
+    <td>
+      숙박 숙소 플랫폼 - 업체 및 숙소 관리 페이지 - 숙소추가 방추가 회원 관리 등 관리자 기능 제공
+    </td>
+  </tr>
+</table>
+
