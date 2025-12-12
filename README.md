@@ -9,7 +9,7 @@ I focus on designing user-friendly interfaces and building reliable backend syst
 I have developed projects such as:
 - Smart Parking System  
 - Cafe Kiosk (admin/user/react)  
-- MyPetLog  
+- HoneyRest_host  
 
 Through these projects, I strengthened my problem-solving skills and gained practical development experience.  
 I am preparing for a Full-Stack Developer role where I aim to contribute to both frontend and backend fields effectively.
